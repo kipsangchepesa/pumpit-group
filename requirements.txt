@@ -1,0 +1,17 @@
+streamlit
+
+
+altair
+
+
+pandas
+
+
+sklearn
+
+
+matplotlib
+
+
+
+bokeh==2.4.1
